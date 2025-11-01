@@ -5,7 +5,6 @@ Este repositório documenta meu aprendizado e os insights adquiridos durante o l
 ##  Objetivo 
 
 O objetivo principal deste desafio é aplicar os conceitos de orquestração de serviços da AWS usando o Step Functions.
----
 
 ## O que é o AWS Step Functions?
 
